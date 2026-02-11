@@ -25,4 +25,18 @@ End-of-day Checkout Screenshot of the biggest win
 <img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/8096f73d-6620-4195-9031-7e930f7aaff8" />
 
 
+Date:2/11/26
+
+Morning Stand-Up:
+
+What did I do yesterday?
+-We created a simple UI and prompt my design as a ChatBot LLM
+
+What will I do today?
+-Designing my program and create a design for my ChatBot and prompt 
+
+What are my blockers?
+-To prompt my design 
+
+
 
