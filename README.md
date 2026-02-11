@@ -36,7 +36,15 @@ What will I do today?
 -Designing my program and create a design for my ChatBot and prompt 
 
 What are my blockers?
--To prompt my design 
+-To prompt my design and to generate my work us LLM and error code
+
+End-of-day Checkout Screenshot of the biggest win
+<img width="1917" height="942" alt="image" src="https://github.com/user-attachments/assets/a1351e5d-1d00-4068-8e9a-07b91b95748c" />
+<img width="396" height="855" alt="image" src="https://github.com/user-attachments/assets/f58e5f69-2168-4949-ac88-2f3186975c58" />
+<img width="391" height="858" alt="image" src="https://github.com/user-attachments/assets/d3ad7f5a-7ea7-4c26-bf1b-fdaf556b6469" />
+
+
+
 
 
 
