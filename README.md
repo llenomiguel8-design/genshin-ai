@@ -44,6 +44,21 @@ End-of-day Checkout Screenshot of the biggest win
 <img width="391" height="858" alt="image" src="https://github.com/user-attachments/assets/d3ad7f5a-7ea7-4c26-bf1b-fdaf556b6469" />
 
 
+Date:2/12/26
+
+Morning Stand-Up:
+
+What did I do yesterday?
+-We created a Antigravity and I deploy my work as Website also to connect frontEnd and backEnd 
+
+What will I do today?
+-Helping other people to push and deploy for his/her LLM Website also put some 
+other things for my created AI as a real AI/LLM
+
+What are my blockers?
+-To prompt my design and to generate my work us LLM and error code
+
+
 
 
 
