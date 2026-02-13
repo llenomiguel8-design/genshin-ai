@@ -59,6 +59,21 @@ What are my blockers?
 -To prompt my design and to generate my work us LLM and error code
 
 
+Date:2/13/26
+
+Morning Stand-Up:
+
+What did I do yesterday?
+-Did I do yesterday is finalize my work or LLM and put some design, navigation, character, also buddle fight 
+
+What will I do today?
+-To present and demo my AI ChatBot
+
+What are my blockers?
+-To prompt my design and to generate my work us LLM and error code
+
+
+
 
 
 
