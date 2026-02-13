@@ -70,7 +70,7 @@ What will I do today?
 -To present and demo my AI ChatBot
 
 What are my blockers?
--To prompt my design and to generate my work us LLM and error code
+-Pressure and confidence
 
 
 
